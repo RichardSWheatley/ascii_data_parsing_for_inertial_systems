@@ -1,6 +1,0 @@
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\Parse_File_For_Data_Processing.Form1.resources
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\$safeprojectname$.Properties.Resources.resources
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\imu_10_parse_file.csproj.GenerateResource.Cache
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\Parse_file.TrustInfo.xml
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\Parse_file.exe
-C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Debug\Parse_file.pdb
