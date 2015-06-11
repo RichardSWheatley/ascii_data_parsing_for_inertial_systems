@@ -15,14 +15,6 @@ namespace ParseFileForDataProcessing
         string gbl_save_filename = "";
         string gbl_open_filename = "";
 
-
-        public bool isNumeric(string val, System.Globalization.NumberStyles NumberStyle)
-        {
-            Double result;
-            return Double.TryParse(val, NumberStyle,
-                System.Globalization.CultureInfo.CurrentCulture, out result);
-        }
-
         public Form1()
         {
             InitializeComponent();
