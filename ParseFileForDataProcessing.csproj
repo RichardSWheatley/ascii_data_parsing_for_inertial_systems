@@ -13,7 +13,7 @@
     <ManifestCertificateThumbprint>51C05DD92A1842C4BDBC466F06B11B9347A9943D</ManifestCertificateThumbprint>
     <ManifestKeyFile>ParseFileForDataProcessing_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <TargetZone>LocalIntranet</TargetZone>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
