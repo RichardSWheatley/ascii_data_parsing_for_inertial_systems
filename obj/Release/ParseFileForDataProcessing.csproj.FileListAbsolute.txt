@@ -2,6 +2,7 @@ C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\bin\Release\ParseFile.application
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\bin\Release\ParseFile.exe
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\bin\Release\ParseFile.pdb
+C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Release\ParseFileForDataProcessing.csprojResolveAssemblyReference.cache
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Release\ParseFileForDataProcessing.Form1.resources
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Release\ParseFiles.Properties.Resources.resources
 C:\Users\rwheatley\Documents\Visual Studio 2013\My Exported Templates\Parse_Data_For_Processing\obj\Release\ParseFileForDataProcessing.csproj.GenerateResource.Cache
